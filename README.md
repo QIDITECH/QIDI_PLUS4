@@ -9,17 +9,15 @@ QIDI PLUS4 is a 3D printer that uses Klipper as its foundation. This repository 
 
 For convenience, QIDI provides version-specific packaged files. Please download the necessary compressed package file prefixed with "PLUS4." Select the appropriate branch for download, with each branch name reflecting the corresponding version.
 
-## V1.3.2 Update Content
+## V1.4.0 Update Content
 
 **Note:** After updating, the Klipper configuration file will be replaced. The previous configuration file will be backed up as `printer_{datetime}.cfg`, printer recalibration will be required.
 
-1.Adjust some UI display effects
+1.The upper limit of extruder temperature has been raised to 370
 
-2.Add switch server prompt
+2.Adjust the network settings page
 
-3.Device binding Add server verification
-
-4.Update configuration file to provide a better experience
+3.Failed to repair power outage and resume operation
     
 
 
