@@ -28,7 +28,7 @@ Note that all updates can not be updated from higher versions
 
     <p align="left"><img src="other/sample.png" height="240" alt="sample"></p>
 
-3. Insert the USB drive into the machine's USB interface, click the `Chcek for updates` button and an update prompt will appear on the version information interface. Update according to the prompt.
+3. Insert the USB drive into the machine's USB interface, click the `Check for updates` button and an update prompt will appear on the version information interface. Update according to the prompt.
 
 ## Report Issues and Make Suggestions
 
