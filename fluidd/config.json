@@ -9,7 +9,7 @@
   "themePresets": [
     {
       "name": "Qidi Tech",
-      "color": "#5B7AEA",
+      "color": "#5576d1",
       "isDark": true,
       "logo": {
         "src": "logo_qidi.svg"
