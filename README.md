@@ -9,17 +9,15 @@ QIDI PLUS4 is a 3D printer that uses Klipper as its foundation. This repository 
 
 For convenience, QIDI provides version-specific packaged files. Please download the necessary compressed package file prefixed with "PLUS4." Select the appropriate branch for download, with each branch name reflecting the corresponding version.
 
-## V1.6.0 Update Content
+## V1.7.0 Update Content
 
-**Note:** After updating, the Klipper configuration file will be replaced. The previous configuration file will be backed up as `printer_{datetime}.cfg`, printer recalibration will be required.
+**Note:** 
+After updating, the Klipper configuration file will be replaced. The previous configuration file will be backed up as `printer_{datetime}.cfg`, printer recalibration will be required.
 
-1. Added network testing functionality.
-2. Added support for AX300 and AX600 Wi-Fi adapters.
-3. Optimized chamber heating logic: chamber heating starts only when the heated bed reaches the specified temperature.
-4. Added temperature limits and reminders (chamber, heated bed, nozzle) on the Fluidd page.
-5. Fixed an issue where disconnection caused online updates to crash.
-6. Fixed the problem of losing settings after rebooting following a language switch.
-7. Enhanced support for LAN mode.
+If you have a multi-color box, it is recommended to disconnect the box power supply. After the firmware update is completed, connect the multi-color box again, and the box will automatically update the firmware
+
+1. Support multi-color printing related functions.
+2. Fixed the bug that printing cannot be paused during printing.
 
 
 ## The online update version will be uploaded later. If you have already updated this version earlier, please ignore the online update prompt.

@@ -1,0 +1,116 @@
+
+[box_connected]
+status1                        = 0
+status2                        = 0
+status3                        = 0
+status4                        = 0
+
+[spool_0]
+type                           = 
+color                          = 
+supplier                       = 
+min_temp                       = 
+max_temp                       = 
+
+[spool_1]
+type1                          = 
+color1                         = 
+supplier1                      = 
+min_temp1                      = 
+max_temp1                      = 
+
+type2                          = 
+color2                         = 
+supplier2                      = 
+min_temp2                      = 
+max_temp2                      = 
+
+type3                          = 
+color3                         = 
+supplier3                      = 
+min_temp3                      = 
+max_temp3                      = 
+
+type4                          = 
+color4                         = 
+supplier4                      = 
+min_temp4                      = 
+max_temp4                      = 
+
+
+[spool_2]
+type1                          = 
+color1                         = 
+supplier1                      = 
+min_temp1                      = 
+max_temp1                      = 
+
+type2                          = 
+color2                         = 
+supplier2                      = 
+min_temp2                      = 
+max_temp2                      = 
+
+type3                          = 
+color3                         = 
+supplier3                      = 
+min_temp3                      = 
+max_temp3                      = 
+
+type4                          = 
+color4                         = 
+supplier4                      = 
+min_temp4                      = 
+max_temp4                      = 
+
+
+[spool_3]
+type1                          = 
+color1                         = 
+supplier1                      = 
+min_temp1                      = 
+max_temp1                      = 
+
+type2                          = 
+color2                         = 
+supplier2                      = 
+min_temp2                      = 
+max_temp2                      = 
+
+type3                          = 
+color3                         = 
+supplier3                      = 
+min_temp3                      = 
+max_temp3                      = 
+
+type4                          = 
+color4                         = 
+supplier4                      = 
+min_temp4                      = 
+max_temp4                      = 
+
+
+[spool_4]
+type1                          = 
+color1                         = 
+supplier1                      = 
+min_temp1                      = 
+max_temp1                      = 
+
+type2                          = 
+color2                         = 
+supplier2                      = 
+min_temp2                      = 
+max_temp2                      = 
+
+type3                          = 
+color3                         = 
+supplier3                      = 
+min_temp3                      = 
+max_temp3                      = 
+
+type4                          = 
+color4                         = 
+supplier4                      = 
+min_temp4                      = 
+max_temp4                      = 
