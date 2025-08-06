@@ -9,15 +9,15 @@ QIDI PLUS4 is a 3D printer that uses Klipper as its foundation. This repository 
 
 For convenience, QIDI provides version-specific packaged files. Please download the necessary compressed package file prefixed with "PLUS4." Select the appropriate branch for download, with each branch name reflecting the corresponding version.
 
-## V1.7.0 Update Content
+## V1.7.1 Update Content
 
 **Note:** 
 After updating, the Klipper configuration file will be replaced. The previous configuration file will be backed up as `printer_{datetime}.cfg`, printer recalibration will be required.
 
 If you have a multi-color box, it is recommended to disconnect the box power supply. After the firmware update is completed, connect the multi-color box again, and the box will automatically update the firmware
 
-1. Support multi-color printing related functions.
-2. Fixed the bug that printing cannot be paused during printing.
+1. Optimized the resume printing function.
+2. Optimized the error message for material wrapping during printing.
 
 
 ## The online update version will be uploaded later. If you have already updated this version earlier, please ignore the online update prompt.
