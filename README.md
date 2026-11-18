@@ -17,6 +17,7 @@ After updating, the Klipper configuration file will be replaced. The previous co
 Important: After this firmware update, only the latest versions of QIDI Maker App and QIDI Studio are supported. Please update them accordingly. Notice: Do not manage filament via Fluidd — the new firmware does not support it. Use QIDI Studio for BOX filament settings instead. If error QDC_100_005_000_001 occurs, unload the filament, restore factory settings, and reconfigure the box filament. Never edit box filament through Fluidd.
 
 1.Added recording management page with batch delete support
+
 2.Added support for new BOX firmware
 
 
