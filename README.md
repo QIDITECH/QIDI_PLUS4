@@ -9,15 +9,15 @@ QIDI PLUS4 is a 3D printer that uses Klipper as its foundation. This repository 
 
 For convenience, QIDI provides version-specific packaged files. Please download the necessary compressed package file prefixed with "PLUS4." Select the appropriate branch for download, with each branch name reflecting the corresponding version.
 
-## V1.7.1 Update Content
+## V2.1.1 Update Content
 
 **Note:** 
 After updating, the Klipper configuration file will be replaced. The previous configuration file will be backed up as `printer_{datetime}.cfg`, printer recalibration will be required.
 
-If you have a multi-color box, it is recommended to disconnect the box power supply. After the firmware update is completed, connect the multi-color box again, and the box will automatically update the firmware
+Important: After this firmware update, only the latest versions of QIDI Maker App and QIDI Studio are supported. Please update them accordingly. Notice: Do not manage filament via Fluidd — the new firmware does not support it. Use QIDI Studio for BOX filament settings instead. If error QDC_100_005_000_001 occurs, unload the filament, restore factory settings, and reconfigure the box filament. Never edit box filament through Fluidd.
 
-1. Optimized the resume printing function.
-2. Optimized the error message for material wrapping during printing.
+1.Added recording management page with batch delete support
+2.Added support for new BOX firmware
 
 
 ## The online update version will be uploaded later. If you have already updated this version earlier, please ignore the online update prompt.
